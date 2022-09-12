@@ -11,6 +11,7 @@
 
 # OS or Editor folders
 .DS_Store
+.vscode
 .idea
 .cache
 .project
@@ -22,6 +23,7 @@ Thumbs.db
 
 # database dump for tutorial export
 /dump
+/repo
 
 # NPM packages folder.
 node_modules/
